@@ -1,3 +1,3 @@
 # clientGUI
 
-Client Graphic interface for RaspberryPi robotic vehicule control system
+Client GUI for RaspberryPi robotic vehicule control system
