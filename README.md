@@ -1,3 +1,3 @@
 # clientGUI
 
-Client interface for rover control system
+Client Graphic interface for RaspberryPi robotic vehicule control system
