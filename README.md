@@ -22,7 +22,7 @@ Step 2 - Set permissions for execution.
   > cd ./clientcontrol
   > chmod +x rover_client_GUI.py
 
-Step 3 - Install required libraries.
+Step 3 - Install required libraries and programs.
 
 mplayer video software
   > apt-get install mplayer
