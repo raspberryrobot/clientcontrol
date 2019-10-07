@@ -49,5 +49,20 @@ In file rover.conf, set variable ROVER_IP with the IP address used by the Raspbe
   
 **Basic Usage**
 
-Buttons [start] and [stop] will start and stop motor all program modules
+Buttons 
+[start]         Start all user interface modules 
+[stop]          Stop all user interface modules
+[Ping rover]    Send ICMP request to RaspberryPi vehicle control instance
+[Reboot]        Reboot RaspberryPi vehicle control instance
+[Shutdown]      Shutdown RaspberryPi vehicle control instance
+[Start control] Start user interface control module only
+[Stop control]  Stop user interface control module only
+[Start video]   Start user interface video module only
+[Stop video]    Stop user interface video module only
+[Exit]          Exit user interface program
+
+Log windows
+
+4 log windows are available
+
 
