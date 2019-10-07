@@ -24,6 +24,7 @@ Step 2 - In /rover, clone this repo.
   
 You should have these files:
   ```
+  Control.desktop
   README.md
   rover_client_GUI.py
   rover.conf
