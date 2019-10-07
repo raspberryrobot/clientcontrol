@@ -12,9 +12,11 @@ Step 1 - In your home directory, clone this repo
   
 You should have these files:
 
-  > README.md
-  > rover_client_GUI.py
-  > rover.conf
+  README.md
+  
+  rover_client_GUI.py
+  
+  rover.conf
   
 Step 2 - Set permissions for execution
 
@@ -42,5 +44,6 @@ Step 4 - Configure for network access
 
 In file rover.conf, set variable ROVER_IP with the IP address used by the Raspberry Pi controler.
 
-  > ROVER_IP = <Ipv4 address>
-  > ex: ROVER_IP = 192.168.99.1
+  ROVER_IP = <Ipv4 address>
+  
+  ex: ROVER_IP = 192.168.99.1
