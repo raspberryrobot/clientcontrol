@@ -1,10 +1,10 @@
-Client GUI for RaspberryPi robotic vehicule control system.
+**Client GUI for RaspberryPi robotic vehicule control system**
 
 Tested OK on Ubuntu 18.04LTS
 
 Written in python3 with the help of Tk and pygame libraries.
   
-Installation
+**Installation**
 
 Step 1 - In your home directory, clone this repo
 
