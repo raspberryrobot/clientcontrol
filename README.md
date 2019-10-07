@@ -8,7 +8,7 @@
 
 Step 1 - In your home directory, clone this repo.
 
-  > git clone https://github.com/framboiserobot/clientcontrol
+  ```git clone https://github.com/framboiserobot/clientcontrol```
   
 You should have these files:
   ```
@@ -27,19 +27,19 @@ Step 2 - Set permissions for execution.
 Step 3 - Install required libraries and programs.
 
 mplayer video software
-  > apt-get install mplayer
+  ```apt-get install mplayer```
 
 Tkinter library
-  > sudo apt-get install python3-tk 
+  ```sudo apt-get install python3-tk```
 
 Python3 package manager
-  > apt-get install -y python3-pip
+  ```apt-get install -y python3-pip```
 
 Latest version of pygame
-  > pip3 install pygame
+  ```pip3 install pygame```
 
 Latest version of tendo
-  > pip3 install tendo
+  ```pip3 install tendo```
   
 Step 4 - Configure for network access. 
 
