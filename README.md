@@ -30,7 +30,7 @@ mplayer video software
   ```apt-get install mplayer```
 
 Tkinter library
-  ```sudo apt-get install python3-tk```
+  ```apt-get install python3-tk```
 
 Python3 package manager
   ```apt-get install -y python3-pip```
