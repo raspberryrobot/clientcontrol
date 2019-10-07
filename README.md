@@ -42,7 +42,7 @@ Latest version of tendo
 Step 4 - Configure for network access 
 
 In file rover.conf, set variable ROVER_IP with the IP address used by the Raspberry Pi controler.
-
+  ```
   ROVER_IP = <Ipv4 address>
-  
   ex: ROVER_IP = 192.168.99.1
+  ```
