@@ -60,6 +60,26 @@ In file rover.conf, set variable ROVER_IP with the IP address used by the Raspbe
   ROVER_IP = <Ipv4 address>
   ex: ROVER_IP = 192.168.99.1
   ```
+  
+Step 6 - Create a desktop shorcut
+
+Move file Control.desktop to your deskop. The operating system will create a graphic shortcut using this file.
+
+  Control.desktop file content:
+  
+  ```
+  [Desktop Entry]
+  Version=1.0
+  Type=Application
+  Name=Control
+  Comment=
+  Exec=/rover/clientcontrol/rover_client_GUI.py
+  Icon=transmission
+  Path=/rover/clientcontrol/
+  Terminal=false
+  StartupNotify=false
+
+  ```
  
 **Basic Usage**
 
