@@ -6,7 +6,19 @@
   
 **Installation**
 
-Step 1 - In your home directory, clone this repo.
+Step 1 - Setup local directory
+
+Create a /rover directory and attribute ownership to the current user.
+
+  ```
+  sudo -s 
+  cd /
+  mkdir /rover
+  chown <your user>:<your group> /rover
+  exit
+  ```
+
+Step 2 - In /rover, clone this repo.
 
   ```git clone https://github.com/framboiserobot/clientcontrol```
   
@@ -17,14 +29,14 @@ You should have these files:
   rover.conf
   ```
   
-Step 2 - Set permissions for execution.
+Step 3 - Set permissions for execution.
 
   ```
   > cd ./clientcontrol
   > chmod +x rover_client_GUI.py
   ```
 
-Step 3 - Install required libraries and programs.
+Step 4 - Install required libraries and programs.
 
 mplayer video software
   ```apt-get install -y mplayer```
@@ -41,7 +53,7 @@ Latest version of pygame
 Latest version of tendo
   ```pip3 install tendo```
   
-Step 4 - Configure for network access. 
+Step 5 - Configure for network access. 
 
 In file rover.conf, set variable ROVER_IP with the IP address used by the Raspberry Pi controler.
   ```
