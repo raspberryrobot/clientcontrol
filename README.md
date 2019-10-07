@@ -13,7 +13,9 @@ Step 1 - In your home directory, clone this repo
 You should have these files:
 
   README.md
+  
   rover_client_GUI.py
+  
   rover.conf
   
 Step 2 - Set permissions for execution
