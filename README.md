@@ -19,7 +19,7 @@ You should have these files:
   
 Step 2 - Set permissions for execution
 
-  > cd clientcontrol
+  > cd ./clientcontrol
   > chmod +x rover_client_GUI.py
 
 Step 3 - Install required libraries
