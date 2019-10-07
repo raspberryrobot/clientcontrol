@@ -1,12 +1,12 @@
 **Client GUI for RaspberryPi robotic vehicle control system**
 
-Tested OK on Ubuntu 18.04LTS
+Tested OK on Ubuntu 18.04LTS.
 
 Written in python3 with the help of Tk and pygame libraries.
   
 **Installation**
 
-Step 1 - In your home directory, clone this repo
+Step 1 - In your home directory, clone this repo.
 
   > git clone https://github.com/framboiserobot/clientcontrol
   
@@ -17,12 +17,12 @@ You should have these files:
   rover.conf
   ```
   
-Step 2 - Set permissions for execution
+Step 2 - Set permissions for execution.
 
   > cd ./clientcontrol
   > chmod +x rover_client_GUI.py
 
-Step 3 - Install required libraries
+Step 3 - Install required libraries.
 
 mplayer video software
   > apt-get install mplayer
@@ -39,7 +39,7 @@ Latest version of pygame
 Latest version of tendo
   > pip3 install tendo
   
-Step 4 - Configure for network access 
+Step 4 - Configure for network access. 
 
 In file rover.conf, set variable ROVER_IP with the IP address used by the Raspberry Pi controler.
   ```
