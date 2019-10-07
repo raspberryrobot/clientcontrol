@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Control
+Comment=
+Exec=/rover/clientcontrol/rover_client_GUI.py
+Icon=transmission
+Path=/rover/clientcontrol/
+Terminal=false
+StartupNotify=false
