@@ -1,4 +1,4 @@
-**Client GUI for RaspberryPi robotic vehicule control system**
+**Client GUI for RaspberryPi robotic vehicle control system**
 
 Tested OK on Ubuntu 18.04LTS
 
