@@ -72,3 +72,13 @@ Control log - joystick          PS2 controler values
 Control log - motor telemetry   Motor remote telemetry
 Video log - video data status   Video bytes received 
 ```
+Video notes
+```
+mplayer video program will start when at least 1M of data is received.
+mplayer program may freeze if you click multiple time on screen. 
+A complete restart may be necessary to correct this (mplayer bug). 
+
+If you stop and restart the video module, wait at least 2-3 seconds to allow
+vehicle video server to reset and restart, otherwise you will get an error 
+message
+```
