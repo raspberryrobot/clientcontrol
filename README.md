@@ -66,4 +66,9 @@ Log windows
 
 4 log windows are available
 
-
+```
+System log window               System command output
+Control log - joystick          PS2 controler values     
+Control log - motor telemetry   Motor remote telemetry
+Video log - video data status   Video bytes received 
+```
