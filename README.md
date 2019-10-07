@@ -27,10 +27,10 @@ Step 2 - Set permissions for execution.
 Step 3 - Install required libraries and programs.
 
 mplayer video software
-  ```apt-get install mplayer```
+  ```apt-get install -y mplayer```
 
 Tkinter library
-  ```apt-get install python3-tk```
+  ```apt-get install -y python3-tk```
 
 Python3 package manager
   ```apt-get install -y python3-pip```
