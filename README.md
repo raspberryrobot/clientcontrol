@@ -76,10 +76,9 @@ Video log - video data status   Video bytes received
 ```
 Video notes
 ```
-mplayer video program will start when at least 1M of data is received.
-mplayer program may freeze  (mplayer bug) if you click multiple time 
-on the video screen. A complete restart of the program might be necessary 
-to correct this. 
+The mplayer video program will start when at least 1M of data is received.
+Mplayer may freeze (mplayer bug) if you click multiple time on the video screen. 
+A complete restart of the GUI might be necessary to correct this. 
 
 If you stop and restart the video module, wait at least 2-3 seconds to allow
 the video server to reset and restart, otherwise you will get an error 
