@@ -80,6 +80,6 @@ on the video screen. A complete restart of the program might be necessary
 to correct this. 
 
 If you stop and restart the video module, wait at least 2-3 seconds to allow
-vehicle video server to reset and restart, otherwise you will get an error 
+the video server to reset and restart, otherwise you will get an error 
 message
 ```
