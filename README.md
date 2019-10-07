@@ -46,3 +46,8 @@ In file rover.conf, set variable ROVER_IP with the IP address used by the Raspbe
   ROVER_IP = <Ipv4 address>
   ex: ROVER_IP = 192.168.99.1
   ```
+  
+**Basic Usage**
+
+Buttons [start] and [stop] will start and stop motor all program modules
+
