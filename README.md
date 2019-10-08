@@ -2,6 +2,7 @@
   ```
   Tested OK on Ubuntu 18.04LTS.
   Written in python3 with the help of Tk and pygame libraries.
+  Tested OK with a Gamepad Logitech F310 controller
   ```
   
 **Installation**
