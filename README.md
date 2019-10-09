@@ -21,7 +21,10 @@ Create a /rover directory and attribute ownership to the current user.
 
 Step 2 - In /rover, clone this repo.
 
-  ```git clone https://github.com/framboiserobot/clientcontrol```
+  ```
+  > cd /rover
+  > git clone https://github.com/raspberryrobot/clientcontrol
+  ```
   
 You should have these files:
   ```
