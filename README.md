@@ -66,7 +66,7 @@ In file rover.conf, set variable ROVER_IP with the IP address used by the Raspbe
   ex: ROVER_IP = 192.168.99.1
   ```
   
-Step 6 - Create a desktop shorcut
+Step 6 - Create a desktop shortcut
 
 Move file ```Control.desktop``` to your deskop. The operating system will create a graphic shortcut using this file.
 Click [mark executable] when prompted at the initial execution.
