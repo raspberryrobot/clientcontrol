@@ -60,7 +60,7 @@ Latest version of tendo
   
 Step 5 - Configure for network access. 
 
-In file rover.conf, set variable ROVER_IP with the IP address used by the Raspberry Pi controler.
+In file rover.conf, set variable ROVER_IP with the IP address used by the Raspberry Pi controller.
   ```
   ROVER_IP = <Ipv4 address>
   ex: ROVER_IP = 192.168.99.1
@@ -108,7 +108,7 @@ Log windows
 
 ```
 System log window               System command output
-Control log - joystick          PS2 controler values     
+Control log - joystick          PS2 controller values     
 Control log - motor telemetry   Motor remote telemetry
 Video log - video data status   Video bytes received 
 ```
