@@ -26,7 +26,7 @@ Step 2 - In /rover, clone this repo.
   > git clone https://github.com/raspberryrobot/clientcontrol
   ```
   
-You should have these files:
+You should have these files in directory ```/rover/clientcontrol```
   ```
   Control.desktop
   README.md
@@ -68,7 +68,12 @@ In file rover.conf, set variable ROVER_IP with the IP address used by the Raspbe
   
 Step 6 - Create a desktop shortcut
 
-Move file ```Control.desktop``` to your deskop. The operating system will create a graphic shortcut using this file.
+Copy file ```Control.desktop``` to your deskop. 
+  ```
+   > cp /rover/clientcontrol/Control.desktop ~/Desktop
+  ```
+
+The operating system will create a graphic shortcut using this file.
 Click [mark executable] when prompted at the initial execution.
 
   Control.desktop file content:
