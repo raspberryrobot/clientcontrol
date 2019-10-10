@@ -74,6 +74,7 @@ Copy file ```Control.desktop``` to your deskop.
   ```
 
 The operating system will create a graphic shortcut using this file.
+
 Click [mark executable] when prompted at the initial execution.
 
   Control.desktop file content:
