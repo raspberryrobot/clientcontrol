@@ -94,9 +94,8 @@ The operating system will create a graphic shortcut using this file.
 **Basic Program Usage**
 
 Initial execution 
-```
-Click [mark executable] when prompted at the initial execution.
-```
+
+Click ```[mark executable]``` when prompted at the initial execution.
 
 Buttons 
 ```
