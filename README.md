@@ -12,18 +12,18 @@ Step 1 - Setup local directory
 Create a /rover directory and attribute ownership to the current user.
 
   ```
-  sudo -s 
-  cd /
-  mkdir /rover
-  chown <your user>:<your group> /rover
-  exit
+  $ sudo -s 
+  $ cd /
+  $ mkdir /rover
+  $ chown <your user>:<your group> /rover
+  $ exit
   ```
 
 Step 2 - In /rover, clone this repo.
 
   ```
-  > cd /rover
-  > git clone https://github.com/raspberryrobot/clientcontrol
+  $ cd /rover
+  $ git clone https://github.com/raspberryrobot/clientcontrol
   ```
   
 You should have these files in directory ```/rover/clientcontrol```
@@ -37,8 +37,8 @@ You should have these files in directory ```/rover/clientcontrol```
 Step 3 - Set permissions for execution.
 
   ```
-  > cd ./clientcontrol
-  > chmod +x rover_client_GUI.py
+  $ cd ./clientcontrol
+  $ chmod +x rover_client_GUI.py
   ```
 
 Step 4 - Install required libraries and programs.
@@ -70,7 +70,7 @@ Step 6 - Create a desktop shortcut
 
 Copy file ```Control.desktop``` to your deskop. 
   ```
-   > cp /rover/clientcontrol/Control.desktop ~/Desktop
+   $ cp /rover/clientcontrol/Control.desktop ~/Desktop
   ```
 
 The operating system will create a graphic shortcut using this file.
